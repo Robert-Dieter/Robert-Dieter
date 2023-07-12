@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Robert👨‍💼
+- BS Mechanical Engineering @ Northwestern University💜
+- Data Engineering @ London School of Economics🇬🇧
